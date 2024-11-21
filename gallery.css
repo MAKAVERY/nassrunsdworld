@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(212, 26, 181);
+  }
+  img {
+    width: 30%;
+    height: 30%;
+    margin: 20px 20px 20px 0;
+    display: block;
+  }
+  
+  p {
+    display: inline-block;
+  }
+  
+  .story {
+    margin: 0 10% 10% 10%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    color: rgba(255, 255, 255, 0.87);
+    text-align: center;
+  }
+
+  a {
+    background-color: lightgray;
+    color: rgb(109, 100, 190);
+    text-decoration: none;
+    font-size: 29px;
+    border: 2px solid transparent;
+    transition: all 0.3s ease-in-out;
+  }
